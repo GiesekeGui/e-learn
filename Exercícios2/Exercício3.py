@@ -7,3 +7,4 @@ else:
  preço = distância * 0.50
 
 print(f'Pela distância (distância)Km, tem que pagar:(preço)R$.')
+//Okay//
